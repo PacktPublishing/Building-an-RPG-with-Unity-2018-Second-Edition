@@ -61,7 +61,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 Vahé Karamian is a software consultant and author based in Los Angeles, CA. He is the founder of Noorcon Inc., a software consulting firm in Burbank, CA, providing services in the field of augmented reality and virtual reality used in the entertainment, architecture, medical, and manufacturing industries. He has lectured in state and private universities on topics including Introduction to Computer Science, Data Structures and Algorithms, Operating Systems, and Game Design and Development.
 
 
-## Other books by the authors
+## Other books by the author
 * [Building an RPG with Unity 5.x](https://www.packtpub.com/game-development/building-rpg-unity-5x)
 * [Building an RPG with Unity 5.x Video](https://www.packtpub.com/game-development/building-rpg-unity-5x-video)
 
