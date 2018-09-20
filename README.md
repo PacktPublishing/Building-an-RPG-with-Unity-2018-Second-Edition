@@ -5,7 +5,7 @@ Building an RPG with Unity 2018, published by Packt
 
 This is the code repository for [Building an RPG with Unity 2018 - Second Edition](https://www.packtpub.com/game-development/building-rpg-unity-2018-second-edition), published by Packt.
 
-**Build a high-end, multiplayer role-playing game (RPG) from scratch with C# and Unity 2018**
+**Leverage the power of Unity 2018 to build elements of an RPG.**
 
 ## What is this book about?
 In a role-playing game (RPG), users control a character, usually in the game's imaginary universe. Unity has become a top choice for developers looking to create these kinds of immersive RPGs.
