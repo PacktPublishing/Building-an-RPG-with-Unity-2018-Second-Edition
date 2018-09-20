@@ -56,7 +56,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Unity Virtual Reality Projects - Second Edition [[Packt]](https://www.packtpub.com/game-development/unity-virtual-reality-projects-second-edition) [[Amazon]](https://www.amazon.com/dp/1788478800)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Vahé Karamian**
 Vahé Karamian is a software consultant and author based in Los Angeles, CA. He is the founder of Noorcon Inc., a software consulting firm in Burbank, CA, providing services in the field of augmented reality and virtual reality used in the entertainment, architecture, medical, and manufacturing industries. He has lectured in state and private universities on topics including Introduction to Computer Science, Data Structures and Algorithms, Operating Systems, and Game Design and Development.
 
